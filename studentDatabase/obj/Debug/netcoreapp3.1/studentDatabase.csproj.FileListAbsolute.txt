@@ -1,0 +1,14 @@
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.csproj.AssemblyReference.cache
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.AssemblyInfoInputs.cache
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.AssemblyInfo.cs
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.exe
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.deps.json
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.runtimeconfig.json
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.runtimeconfig.dev.json
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.dll
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\bin\Debug\netcoreapp3.1\studentDatabase.pdb
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.dll
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.pdb
+C:\Users\RLynch\source\repos\studentDatabase\studentDatabase\obj\Debug\netcoreapp3.1\studentDatabase.genruntimeconfig.cache
