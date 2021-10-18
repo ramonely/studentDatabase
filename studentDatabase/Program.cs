@@ -5,8 +5,46 @@ namespace studentDatabase
 {
     internal class Program
     {
+        public class studentDev
+        {
+            //This is the class for what student is
+            //A student must have the three properties below
+            public string name;
+
+            public string homeTown;
+
+            public string favoriteFood;
+        }
+
         private static void Main()
         {
+            //This is the one object in the students class list
+            //You can add all the students with all three
+            //Property factors (Name,howntown,favorite food)
+            List<studentDev> classmates = new List<studentDev>();
+
+            classmates.Insert(0, new studentDev
+            {
+                name = "Andy Berr",
+                homeTown = "Berkley, MI",
+                favoriteFood = "French Fries",
+            });
+
+            classmates.Insert(0, new studentDev
+            {
+                name = "Cassly Sullen",
+                homeTown = "Detroit, MI",
+                favoriteFood = "Steak",
+            });
+
+            foreach (var item in classmates)
+            {
+                Console.WriteLine(item.name);
+                Console.WriteLine(item.homeTown);
+                Console.WriteLine(item.favoriteFood);
+                Console.WriteLine("\n-----------------------------\n");
+            }
+
             string[] students = new string[11];
             students[0] = " ";
             students[1] = "Andy Berr";
